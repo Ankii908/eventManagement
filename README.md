@@ -1,4 +1,4 @@
 # eventManagement
 
 
-https://ankii908.github.io/eventManagement/
+https://github.com/Ankii908/eventManagement
